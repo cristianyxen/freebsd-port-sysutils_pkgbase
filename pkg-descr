@@ -1,1 +1,4 @@
-FreeBSD pkgbase(8) upgrade tool in PKGBASE world similar to freebsd-update(8) command.
+FreeBSD PKGBASE upgrade tool similar to the freebsd-update(8) command.
+It caen be used to upgrade a PKGBASE system to a new release, as well
+as just install the latest patch-level. Can handle the UEFI/BIOS bootcode
+upgrade as well. Works inside jails.

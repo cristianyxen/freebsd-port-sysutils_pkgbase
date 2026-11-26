@@ -3,7 +3,7 @@ DISTVERSION=	0.7
 CATEGORIES=	sysutils
 
 MAINTAINER=	cryx-ports@h3q.com
-COMMENT=	FreeBSD pkgbase(8) upgrade tool in PKGBASE world similar to freebsd-update(8) command.
+COMMENT=	FreeBSD PKGBASE upgrade tool
 WWW=		https://github.com/vermaden/pkgbase
 
 LICENSE=	BSD2CLAUSE
