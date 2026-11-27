@@ -1,5 +1,5 @@
 PORTNAME=	pkgbase
-DISTVERSION=	0.8
+DISTVERSION=	0.9
 CATEGORIES=	sysutils
 
 MAINTAINER=	cryx-ports@h3q.com
